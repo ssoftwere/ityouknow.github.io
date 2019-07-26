@@ -18,7 +18,7 @@ favicon: favicon.ico
 repository: ssoft/ssoft.github.io
 github_url: https://github.com/ssoft
 url: http://ssoft.github.io
-enforce_ssl: ssoft.com
+enforce_ssl: ityouknow.com
 
 ## Gem
 plugins:
